@@ -11,3 +11,5 @@ How to bring this to work:
 9. Paste the script
 10. ????
 11. Profit
+
+These are just bots. You can take a look in these Websites and have a look in these APIs, then you would be able to access the score directly
