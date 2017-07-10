@@ -12,4 +12,7 @@ How to bring this to work:
 10. ????
 11. Profit
 
-These are just bots. You can take a look in these Websites and have a look in these APIs, then you would be able to access the score directly
+These cheats use different methods. 
+For corsairs, I lowered the speed of the cannon balls and built a little bot around.
+For Math Duel, I coded a real bot. Easy, because it's just about calculations
+For Lumberjack, I just use the API, because I was to lazy to code a bot. The fastest way to get many points. Does also work with Math Duel.
